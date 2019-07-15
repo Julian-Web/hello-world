@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Mu first test for commits
+My first test for commits
